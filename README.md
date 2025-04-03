@@ -1,7 +1,13 @@
-Generador de Imágenes con IA - Stable Diffusion 3.5
-Este proyecto utiliza el modelo Stable Diffusion 3.5 Large para generar imágenes realistas a partir de descripciones en lenguaje natural (prompts), optimizado para ejecutarse en GPU con PyTorch.
-Autor: Juan Pablo Corona
-Universidad Técnica Federico Santa Maria - Inteligencia Artifcial Generativa
+# Generador de Imágenes con IA - Stable Diffusion 3.5
+
+Este proyecto utiliza el modelo **Stable Diffusion 3.5 Large** para generar imágenes realistas a partir de descripciones en lenguaje natural (*prompts*), optimizado para ejecutarse en GPU con PyTorch.
+
+
+## 👨‍💻 Autor
+
+**Juan Pablo Corona**  
+Universidad Técnica Federico Santa María  
+Curso: **Inteligencia Artificial Generativa**
 
 Características
 Generación de imágenes con Stable Diffusion 3.5.
