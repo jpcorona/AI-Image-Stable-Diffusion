@@ -1,4 +1,4 @@
-# Generador de Imágenes con IA - Stable Diffusion 3.5
+# Generador de Imágenes con IA - Stable Diffusion 3.5 - UTFSM
 
 Este proyecto utiliza el modelo **Stable Diffusion 3.5 Large** para generar imágenes realistas a partir de descripciones en lenguaje natural (*prompts*), optimizado para ejecutarse en GPU con PyTorch.
 
