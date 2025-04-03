@@ -7,7 +7,7 @@ Este proyecto utiliza el modelo **Stable Diffusion 3.5 Large** para generar imá
 
 **Juan Pablo Corona**  
 Universidad Técnica Federico Santa María  
-Curso: **Inteligencia Artificial Generativa**
+**Inteligencia Artificial Generativa**
 
 Características
 Generación de imágenes con Stable Diffusion 3.5.
