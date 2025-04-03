@@ -18,6 +18,16 @@ Medición de estadísticas de rendimiento: tiempo de inferencia, memoria usada, 
 
 Sugerencias automáticas para mejorar eficiencia y rendimiento.
 
+##  Requisitos
+
+- Python 3.8+
+- CUDA Toolkit (si tienes GPU NVIDIA)
+- PyTorch
+- diffusers
+- transformers
+- accelerate
+- Una cuenta en [Hugging Face](https://huggingface.co)
+
 Ejemplo de uso
 
 texto_descriptivo = "un programador tocando el pasto"
